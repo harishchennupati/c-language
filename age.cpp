@@ -33,4 +33,5 @@ int main(void)
     sort(s.begin(),s.end());
     for(int i=0;i<3;++i)
     cout<<s[i].s1<<" "<<s[i].age1<<endl;
+    cout<<"hello i sorted persons according to their ages";
 }
